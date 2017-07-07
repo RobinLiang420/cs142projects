@@ -1,0 +1,42 @@
+*{
+		font-family: Tahoma;
+		font-size: 13px;
+		text-align: left;
+		padding: 0 10px;
+
+	}
+	table {
+		border: 10px solid #d0d0ff; 
+		padding: 20px;				
+	}
+
+	#price_tab {
+			border-collapse: collapse;
+					
+	}
+	tr#tab_head{
+		text-align: left;
+	}
+	th{
+		/*width: ; */
+				
+	}
+	tr {
+		border-bottom: 1px solid #fff;
+		
+		
+
+	}
+	td {
+		
+	}
+	#total td{
+		border-top: 1px solid #000;
+		
+		
+	}
+	#total{
+		border-top: 1px solid #000;
+		font-weight: bold;
+		
+	}
